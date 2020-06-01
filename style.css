@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  font-family: 'Segoe UI';
+}
+
+nav {
+  background-color: rgb(42, 127, 255);
+  color: #eee;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+  margin: 0px;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  display: inline-block;
+  padding: 10px;
+  color: #eee;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgb(20, 85, 182);
+}
